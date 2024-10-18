@@ -1,0 +1,259 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Frontend Developer",
+        "company": "Tech Solutions Inc.",
+        "location": "New York, NY",
+        "type": "Full-time",
+        "salary": 85000,
+        "description": "We are looking for a skilled Frontend Developer to join our team.",
+        "requirements": ["JavaScript", "React", "CSS"],
+        "postedDate": "2024-10-01"
+      },
+      {
+        "id": 2,
+        "title": "Backend Developer",
+        "company": "Innovatech",
+        "location": "Remote",
+        "type": "Contract",
+        "salary": 95000,
+        "description": "Seeking a Backend Developer with experience in Node.js.",
+        "requirements": ["Node.js", "MongoDB", "API development"],
+        "postedDate": "2023-10-05"
+      },
+      {
+        "id": 3,
+        "title": "Project Manager",
+        "company": "Creative Agency",
+        "location": "Los Angeles, CA",
+        "type": "Full-time",
+        "salary": 90000,
+        "description": "Looking for a Project Manager to oversee various projects.",
+        "requirements": ["Agile", "Scrum", "Leadership"],
+        "postedDate": "2023-10-07"
+      },
+      {
+        "id": 4,
+        "title": "UI/UX Designer",
+        "company": "Design Co.",
+        "location": "Chicago, IL",
+        "type": "Part-time",
+        "salary": 60000,
+        "description": "Join our team as a UI/UX Designer.",
+        "requirements": ["Figma", "Adobe XD", "User Research"],
+        "postedDate": "2024-10-10"
+      },
+      {
+        "id": 5,
+        "title": "Data Analyst",
+        "company": "Data Insights",
+        "location": "Boston, MA",
+        "type": "Internship",
+        "salary": 20000,
+        "description": "Internship opportunity for aspiring Data Analysts.",
+        "requirements": ["Excel", "SQL", "Statistics"],
+        "postedDate": "2023-10-12"
+      },
+      {
+        "id": 6,
+        "title": "Content Writer",
+        "company": "Media Corp",
+        "location": "Remote",
+        "type": "Freelance",
+        "salary": 30000,
+        "description": "Seeking a creative Content Writer to produce engaging articles.",
+        "requirements": ["Writing", "SEO", "Research"],
+        "postedDate": "2023-10-14"
+      },
+      {
+        "id": 7,
+        "title": "System Administrator",
+        "company": "IT Services",
+        "location": "San Francisco, CA",
+        "type": "Full-time",
+        "salary": 80000,
+        "description": "We need a System Administrator to maintain our servers.",
+        "requirements": ["Linux", "Networking", "Troubleshooting"],
+        "postedDate": "2023-10-01"
+      },
+      {
+        "id": 8,
+        "title": "Digital Marketing Specialist",
+        "company": "Marketing Hub",
+        "location": "Austin, TX",
+        "type": "Full-time",
+        "salary": 75000,
+        "description": "Join our team to drive digital marketing initiatives.",
+        "requirements": ["SEO", "PPC", "Analytics"],
+        "postedDate": "2023-10-03"
+      },
+      {
+        "id": 9,
+        "title": "Software Engineer",
+        "company": "Code Factory",
+        "location": "Seattle, WA",
+        "type": "Full-time",
+        "salary": 90000,
+        "description": "Looking for a Software Engineer with a passion for coding.",
+        "requirements": ["Java", "Spring", "Microservices"],
+        "postedDate": "2023-10-08"
+      },
+      {
+        "id": 10,
+        "title": "Graphic Designer",
+        "company": "Visual Arts",
+        "location": "Miami, FL",
+        "type": "Part-time",
+        "salary": 40000,
+        "description": "Seeking a Graphic Designer to create visual content.",
+        "requirements": ["Photoshop", "Illustrator", "Creativity"],
+        "postedDate": "2023-10-09"
+      },
+      {
+        "id": 11,
+        "title": "DevOps Engineer",
+        "company": "Cloud Solutions",
+        "location": "Remote",
+        "type": "Full-time",
+        "salary": 100000,
+        "description": "We are looking for a DevOps Engineer to streamline our operations.",
+        "requirements": ["AWS", "Docker", "CI/CD"],
+        "postedDate": "2023-10-11"
+      },
+      {
+        "id": 12,
+        "title": "Business Analyst",
+        "company": "Consulting Group",
+        "location": "New York, NY",
+        "type": "Contract",
+        "salary": 80000,
+        "description": "Join us as a Business Analyst to improve our services.",
+        "requirements": ["Business Analysis", "SQL", "Communication"],
+        "postedDate": "2023-10-13"
+      },
+      {
+        "id": 13,
+        "title": "Sales Executive",
+        "company": "Sales Force",
+        "location": "Los Angeles, CA",
+        "type": "Full-time",
+        "salary": 70000,
+        "description": "Looking for a Sales Executive to drive sales.",
+        "requirements": ["Sales", "Negotiation", "CRM"],
+        "postedDate": "2023-10-04"
+      },
+      {
+        "id": 14,
+        "title": "QA Engineer",
+        "company": "Quality Assurance Co.",
+        "location": "Chicago, IL",
+        "type": "Part-time",
+        "salary": 60000,
+        "description": "Seeking a QA Engineer to test our products.",
+        "requirements": ["Testing", "Automation", "Attention to Detail"],
+        "postedDate": "2023-10-06"
+      },
+      {
+        "id": 15,
+        "title": "Web Developer",
+        "company": "Web Solutions",
+        "location": "Remote",
+        "type": "Freelance",
+        "salary": 50000,
+        "description": "Join our team as a Freelance Web Developer.",
+        "requirements": ["HTML", "CSS", "JavaScript"],
+        "postedDate": "2023-10-02"
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "Tech Solutions Inc.",
+        "industry": "Technology",
+        "location": "New York, NY",
+        "website": "https://techsolutions.com"
+      },
+      {
+        "id": 2,
+        "name": "Innovatech",
+        "industry": "Technology",
+        "location": "Remote",
+        "website": "https://innovatech.com"
+      },
+      {
+        "id": 3,
+        "name": "Creative Agency",
+        "industry": "Marketing",
+        "location": "Los Angeles, CA",
+        "website": "https://creativeagency.com"
+      },
+      {
+        "id": 4,
+        "name": "Design Co.",
+        "industry": "Design",
+        "location": "Chicago, IL",
+        "website": "https://designco.com"
+      },
+      {
+        "id": 5,
+        "name": "Data Insights",
+        "industry": "Data Analysis",
+        "location": "Boston, MA",
+        "website": "https://datainsights.com"
+      },
+      {
+        "id": 6,
+        "name": "Media Corp",
+        "industry": "Media",
+        "location": "Remote",
+        "website": "https://mediacorp.com"
+      },
+      {
+        "id": 7,
+        "name": "IT Services",
+        "industry": "IT",
+        "location": "San Francisco, CA",
+        "website": "https://itservices.com"
+      },
+      {
+        "id": 8,
+        "name": "Marketing Hub",
+        "industry": "Marketing",
+        "location": "Austin, TX",
+        "website": "https://marketinghub.com"
+      },
+      {
+        "id": 9,
+        "name": "Code Factory",
+        "industry": "Software",
+        "location": "Seattle, WA",
+        "website": "https://codefactory.com"
+      },
+      {
+        "id": 10,
+        "name": "Visual Arts",
+        "industry": "Design",
+        "location": "Miami, FL",
+        "website": "https://visualarts.com"
+      }
+    ],
+    "applicants": [
+      {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "skills": ["JavaScript", "React", "CSS"],
+        "experience": 3,
+        "appliedJobs": [1, 2]
+      },
+      {
+        "id": 2,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "skills": ["Node.js", "API development"],
+        "experience": 5,
+        "appliedJobs": [1, 2]
+      }
+    ]
+}
